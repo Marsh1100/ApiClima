@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+
+h1 {
+  text-align: center;
+}
+
+.select{
+  display: flex;
+  justify-content: center;
+}
+#data-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+li{
+  justify-content: center;
+  gap:20px;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.weather{
+  display: flex;
+  justify-content: center;
+}
+
+
+.footer {
+  color: white;
+  background-color: #041768;
+  width: 100%;
+  height: 5vh;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
